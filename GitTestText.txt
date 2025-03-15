@@ -1,3 +1,2 @@
-Hello, git and GitHub!
-You are greatest app in world!
+this is new branch text
 
